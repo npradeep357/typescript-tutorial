@@ -1,2 +1,1 @@
 "# typescript-tutorial" 
-"# typescript-tutorial  " 
